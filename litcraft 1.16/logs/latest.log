@@ -1,95 +1,411 @@
-[15:44:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[15:44:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:44:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:44:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:44:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:44:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:44:13] [main/INFO]: Reloading ResourceManager: Default, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, durability ping v1.1.0.zip, more mob heads v2.3.0.zip, nether portal coords v1.0.0.zip, wandering trades v1.0.0.zip, armor statues v2.8.1.zip, multiplayer sleep v2.4.3.zip
-[15:44:14] [Worker-Main-10/INFO]: Loaded 7 recipes
-[15:44:14] [Worker-Main-10/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
-[15:44:15] [Worker-Main-10/ERROR]: Parsing error loading custom advancement main:main/namespace: Expected item to be an item, was unknown string 'minecraft:item'
-[15:44:15] [Worker-Main-10/INFO]: Loaded 974 advancements
-[15:44:17] [Server thread/INFO]: Starting minecraft server version 1.16.2
-[15:44:17] [Server thread/INFO]: Loading properties
-[15:44:17] [Server thread/INFO]: Default game type: SURVIVAL
-[15:44:17] [Server thread/INFO]: Generating keypair
-[15:44:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:44:17] [Server thread/INFO]: Using default channel type
-[15:44:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:44:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:44:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:44:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:44:18] [Server thread/INFO]: Preparing level "world"
-[15:44:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:44:20] [Server thread/INFO]: Preparing spawn area: 0%
-[15:44:20] [Server thread/INFO]: Preparing spawn area: 0%
-[15:44:20] [Server thread/INFO]: Preparing spawn area: 0%
-[15:44:20] [Server thread/INFO]: Preparing spawn area: 0%
-[15:44:21] [Server thread/INFO]: Time elapsed: 2398 ms
-[15:44:21] [Server thread/INFO]: Done (2.624s)! For help, type "help"
-[15:47:14] [Server thread/INFO]: insayn[/0:0:0:0:0:0:0:1:54227] logged in with entity id 16 at (-1821.4793755784126, 62.36070367032106, 9.6690657458225)
-[15:47:14] [Server thread/INFO]: insayn joined the game
-[15:50:03] [Server thread/INFO]: yugraj1234[/0:0:0:0:0:0:0:1:54246] logged in with entity id 3613 at (-1211.6338715662564, 91.0, 1033.0457836460291)
-[15:50:03] [Server thread/INFO]: yugraj1234 joined the game
-[15:50:05] [Server thread/WARN]: insayn moved too quickly! 15.725917311822286,-0.7299660135106336,-9.428540484080372
-[15:50:18] [Server thread/INFO]: <yugraj1234> kyaaaaahi
-[15:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[15:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
-[15:52:06] [Server thread/INFO]: <yugraj1234> mast
-[15:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[15:54:30] [Server thread/INFO]: <yugraj1234> machine chala ke dekhe
-[15:54:57] [Server thread/INFO]: <yugraj1234> chalao
-[15:54:58] [Server thread/INFO]: <insayn> bc mera lag maarar
-[15:55:19] [Server thread/INFO]: <insayn> tera kaisa chlra ?
-[15:55:27] [Server thread/INFO]: <insayn> mai to stream wagerah sa karra
-[15:55:47] [Server thread/INFO]: <yugraj1234> ye kya hua
-[15:55:51] [Server thread/INFO]: <insayn> kya hua
-[15:55:56] [Server thread/INFO]: <yugraj1234> tod ke wapas bhi aa gya
-[15:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[15:57:58] [Server thread/INFO]: <yugraj1234> shi hai
-[15:58:18] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:54605] logged in with entity id 20337 at (199.1920703511995, 11.0, 158.70950445247666)
-[15:58:18] [Server thread/INFO]: gryffindor_001 joined the game
-[15:58:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
-[15:58:32] [Server thread/INFO]: <gryffindor_001> allo
-[15:58:59] [Server thread/INFO]: <yugraj1234> is machine ko automatic kar do kya
-[15:59:04] [Server thread/INFO]: <insayn> abhi dekho band kar rahe hai
-[15:59:06] [Server thread/INFO]: <insayn> kal se khelenge
-[15:59:10] [Server thread/INFO]: <insayn> aaj test run tha
-[15:59:11] [Server thread/INFO]: <gryffindor_001> nhii
-[15:59:16] [Server thread/INFO]: <gryffindor_001> nhiiii
-[15:59:17] [Server thread/INFO]: <yugraj1234> ha thik
-[15:59:24] [Server thread/INFO]: <gryffindor_001> nhii
-[15:59:26] [Server thread/INFO]: <insayn> vote jeeta
-[15:59:30] [Server thread/INFO]: <insayn> 2 vs 1
-[15:59:33] [Server thread/INFO]: <gryffindor_001> nhiii
-[15:59:42] [Server thread/INFO]: <gryffindor_001> nhii
-[15:59:56] [Server thread/INFO]: <gryffindor_001> nhii
-[15:59:58] [Server thread/INFO]: <insayn> chudo
-[15:59:59] [Server thread/INFO]: <gryffindor_001> nhii
-[16:00:00] [Server thread/INFO]: insayn lost connection: Disconnected
-[16:00:00] [Server thread/INFO]: insayn left the game
-[16:00:00] [Server thread/INFO]: <yugraj1234> haaaaaaaa
-[16:00:02] [Server thread/INFO]: <gryffindor_001> ruk jao
-[16:00:04] [Server thread/INFO]: <gryffindor_001> aaaaaaaa
-[16:00:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[16:00:05] [Server thread/INFO]: <gryffindor_001> aaaaaa
-[16:00:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:00:21] [Server thread/INFO]: start/say<--[HERE]
-[16:00:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:00:26] [Server thread/INFO]: ma chudao<--[HERE]
-[16:00:33] [Server thread/INFO]: [Server] ma chudao
-[16:00:38] [Server thread/INFO]: Stopping the server
-[16:00:38] [Server thread/INFO]: Stopping server
-[16:00:38] [Server thread/INFO]: Saving players
-[16:00:38] [Server thread/INFO]: yugraj1234 lost connection: Internal Exception: java.lang.StackOverflowError
-[16:00:38] [Server thread/INFO]: yugraj1234 left the game
-[16:00:38] [Server thread/INFO]: Saving worlds
-[16:00:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:overworld
-[16:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:00:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:the_nether
-[16:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:00:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:the_end
-[16:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:13:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[16:13:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:13:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:13:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:13:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:13:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:13:34] [main/INFO]: Reloading ResourceManager: Default, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, durability ping v1.1.0.zip, more mob heads v2.3.0.zip, nether portal coords v1.0.0.zip, wandering trades v1.0.0.zip, armor statues v2.8.1.zip, multiplayer sleep v2.4.3.zip
+[16:13:35] [Worker-Main-13/INFO]: Loaded 7 recipes
+[16:13:35] [Worker-Main-13/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[16:13:35] [Worker-Main-13/ERROR]: Parsing error loading custom advancement main:main/namespace: Expected item to be an item, was unknown string 'minecraft:item'
+[16:13:36] [Worker-Main-13/INFO]: Loaded 974 advancements
+[16:13:37] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[16:13:37] [Server thread/INFO]: Loading properties
+[16:13:37] [Server thread/INFO]: Default game type: SURVIVAL
+[16:13:37] [Server thread/INFO]: Generating keypair
+[16:13:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:13:37] [Server thread/INFO]: Using default channel type
+[16:13:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:13:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:13:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:13:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:13:38] [Server thread/INFO]: Preparing level "world"
+[16:13:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:13:39] [Server thread/INFO]: Preparing spawn area: 0%
+[16:13:39] [Server thread/INFO]: Preparing spawn area: 0%
+[16:13:39] [Server thread/INFO]: Preparing spawn area: 0%
+[16:13:40] [Server thread/INFO]: Preparing spawn area: 76%
+[16:13:40] [Server thread/INFO]: Time elapsed: 1612 ms
+[16:13:40] [Server thread/INFO]: Done (1.791s)! For help, type "help"
+[16:14:08] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:55724] logged in with entity id 16 at (211.56202790435893, 6.0, 206.0803033139989)
+[16:14:08] [Server thread/INFO]: gryffindor_001 joined the game
+[16:14:43] [Server thread/INFO]: insayn[/0:0:0:0:0:0:0:1:55837] logged in with entity id 428 at (-1238.1443484615556, 104.0, 871.0938760894063)
+[16:14:43] [Server thread/INFO]: insayn joined the game
+[16:16:11] [Server thread/INFO]: <gryffindor_001> are ekdum mst chl rha
+[16:17:07] [Server thread/INFO]: _cirius[/0:0:0:0:0:0:0:1:55953] logged in with entity id 1607 at (-1204.2124787252735, 91.0, 1037.3716807853027)
+[16:17:07] [Server thread/INFO]: _cirius joined the game
+[16:17:23] [Server thread/INFO]: <gryffindor_001> kya bhai
+[16:18:43] [Server thread/WARN]: gryffindor_001 moved too quickly! -1.4358045367158638,-2.0,9.71775725861275
+[16:18:43] [Server thread/WARN]: _cirius moved too quickly! 9.664430444021946,-1.0,2.4996414159745655
+[16:18:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2912ms or 58 ticks behind
+[16:20:31] [Server thread/INFO]: <gryffindor_001> han
+[16:20:53] [Server thread/INFO]: pigmeister[/0:0:0:0:0:0:0:1:56015] logged in with entity id 3077 at (-1209.406849335859, 91.0, 1029.0369242140591)
+[16:20:53] [Server thread/INFO]: pigmeister joined the game
+[16:20:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[16:21:04] [Server thread/INFO]: <_cirius> kill the spider
+[16:21:36] [Server thread/INFO]: <gryffindor_001> han
+[16:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:22:05] [Server thread/INFO]: <insayn> gryff suno
+[16:22:07] [Server thread/INFO]: <insayn> bosd
+[16:22:09] [Server thread/INFO]: <gryffindor_001> sunao
+[16:22:14] [Server thread/INFO]: <insayn> looting sword dedo
+[16:23:25] [Server thread/INFO]: <gryffindor_001> han chrome
+[16:23:40] [Server thread/WARN]: gryffindor_001 moved wrongly!
+[16:23:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[16:24:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[16:24:39] [Server thread/INFO]: <gryffindor_001> yeaaa
+[16:24:44] [Server thread/INFO]: <gryffindor_001> dekhr rha koi ka
+[16:25:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6022, l='ServerLevel[litcraft]', x=202.59, y=8.55, z=266.63]
+[16:25:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6030, l='ServerLevel[litcraft]', x=198.43, y=11.32, z=266.26]
+[16:25:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6032, l='ServerLevel[litcraft]', x=200.57, y=10.33, z=266.35]
+[16:25:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6118, l='ServerLevel[litcraft]', x=208.40, y=8.62, z=269.47]
+[16:25:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6120, l='ServerLevel[litcraft]', x=205.30, y=11.31, z=272.73]
+[16:25:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6122, l='ServerLevel[litcraft]', x=203.68, y=12.56, z=273.35]
+[16:25:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6127, l='ServerLevel[litcraft]', x=206.60, y=10.38, z=271.50]
+[16:25:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6129, l='ServerLevel[litcraft]', x=201.57, y=13.53, z=272.65]
+[16:25:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6130, l='ServerLevel[litcraft]', x=204.73, y=12.28, z=272.34]
+[16:25:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Gravel'/6131, l='ServerLevel[litcraft]', x=208.40, y=12.41, z=270.74]
+[16:25:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6132, l='ServerLevel[litcraft]', x=203.37, y=14.69, z=272.59]
+[16:25:44] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6267, l='ServerLevel[litcraft]', x=207.37, y=12.51, z=280.31]
+[16:25:45] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6428, l='ServerLevel[litcraft]', x=197.31, y=13.51, z=288.46]
+[16:25:46] [Server thread/INFO]: gryffindor_001 was slain by Zombified Piglin
+[16:25:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Nether Quartz'/6609, l='ServerLevel[litcraft]', x=206.40, y=10.40, z=292.73]
+[16:25:47] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6668, l='ServerLevel[litcraft]', x=201.63, y=7.51, z=296.64]
+[16:25:47] [Server thread/WARN]: Fetching packet for removed entity bcs['Blackstone'/6669, l='ServerLevel[litcraft]', x=203.55, y=10.47, z=295.59]
+[16:25:47] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/6678, l='ServerLevel[litcraft]', x=203.48, y=9.39, z=300.66]
+[16:25:51] [Server thread/INFO]: <gryffindor_001> nhiiii
+[16:25:52] [Server thread/INFO]: <pigmeister> f
+[16:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[16:26:00] [Server thread/INFO]: <insayn> f
+[16:26:06] [Server thread/INFO]: <gryffindor_001> piglin madar
+[16:26:22] [Server thread/INFO]: <gryffindor_001> are piglin kyun mar rhe pr
+[16:27:01] [Server thread/WARN]: insayn moved too quickly! 12.055047652786243,9.626718882780821,10.553359497715178
+[16:27:04] [Server thread/INFO]: <_cirius> i have this leather pany which is glowing but it's health is too low
+[16:27:08] [Server thread/INFO]: <_cirius> how to repair it
+[16:27:16] [Server thread/WARN]: Fetching packet for removed entity bcs['Gunpowder'/7408, l='ServerLevel[litcraft]', x=-1264.87, y=62.04, z=940.88]
+[16:27:26] [Server thread/INFO]: <insayn> bekar hoti hai
+[16:27:26] [Server thread/INFO]: [gryffindor_001: Set own game mode to Spectator Mode]
+[16:27:28] [Server thread/INFO]: <insayn> fek de
+[16:27:32] [Server thread/INFO]: <_cirius> ok
+[16:28:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/8182, l='ServerLevel[litcraft]', x=202.60, y=10.40, z=317.74]
+[16:28:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/8184, l='ServerLevel[litcraft]', x=202.29, y=10.69, z=318.43]
+[16:28:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/8185, l='ServerLevel[litcraft]', x=205.59, y=10.51, z=316.71]
+[16:28:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/8186, l='ServerLevel[litcraft]', x=204.49, y=16.65, z=314.42]
+[16:28:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/8187, l='ServerLevel[litcraft]', x=205.30, y=16.65, z=317.38]
+[16:28:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/8190, l='ServerLevel[litcraft]', x=207.35, y=10.33, z=317.65]
+[16:28:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/8191, l='ServerLevel[litcraft]', x=203.55, y=13.26, z=319.56]
+[16:28:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/8192, l='ServerLevel[litcraft]', x=206.60, y=13.30, z=318.47]
+[16:28:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/8193, l='ServerLevel[litcraft]', x=204.36, y=10.75, z=317.69]
+[16:28:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/8194, l='ServerLevel[litcraft]', x=203.44, y=8.70, z=317.29]
+[16:28:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/8188, l='ServerLevel[litcraft]', x=208.65, y=14.65, z=315.31]
+[16:28:21] [Server thread/INFO]: [gryffindor_001: Set own game mode to Survival Mode]
+[16:28:31] [Server thread/INFO]: <insayn> cheater
+[16:28:33] [Server thread/INFO]: <gryffindor_001> kya bhai spectate toh kia tha
+[16:28:34] [Server thread/INFO]: <insayn> cheater
+[16:28:36] [Server thread/INFO]: <insayn> cheater
+[16:28:38] [Server thread/INFO]: <insayn> cheater
+[16:28:52] [Server thread/INFO]: <gryffindor_001> toh ek type s tp hi hua na
+[16:28:57] [Server thread/WARN]: insayn moved too quickly! 9.495123063774827,-1.4641593749554431,2.9285026926522733
+[16:28:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4177ms or 83 ticks behind
+[16:28:59] [Server thread/INFO]: <gryffindor_001> mtlb coods yaad nhi
+[16:29:18] [Server thread/INFO]: <_cirius> server will be open for quite now?
+[16:29:34] [Server thread/INFO]: <_cirius> i am thinking to go mining
+[16:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[16:30:22] [Server thread/INFO]: <gryffindor_001> aaa swrord
+[16:30:48] [Server thread/INFO]: <gryffindor_001> sword ghum
+[16:31:39] [Server thread/INFO]: _cirius lost connection: Timed out
+[16:31:39] [Server thread/INFO]: _cirius left the game
+[16:32:28] [Server thread/INFO]: <insayn> cheater
+[16:32:31] [Server thread/INFO]: _cirius[/0:0:0:0:0:0:0:1:56728] logged in with entity id 10282 at (-1217.862782237408, 95.0625, 1037.3130241476872)
+[16:32:31] [Server thread/INFO]: _cirius joined the game
+[16:32:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16:32:48] [Server thread/INFO]: <gryffindor_001> are mtlb tum bhi spectate krke chle jana
+[16:32:53] [Server thread/INFO]: <insayn> nahi
+[16:32:54] [Server thread/INFO]: <insayn> cheating
+[16:32:59] [Server thread/INFO]: <gryffindor_001> yaad toh thi na jgh
+[16:34:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:34:12] [Server thread/INFO]: <gryffindor_001> kya kya
+[16:34:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-232, y=101, z=64} fx{x=-231, y=101, z=64}
+[16:34:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-231, y=102, z=64} fx{x=-231, y=101, z=64}
+[16:34:32] [Server thread/INFO]: <gryffindor_001> oh bhaii
+[16:35:19] [Server thread/INFO]: <gryffindor_001> kya kr rhe
+[16:35:28] [Server thread/INFO]: <gryffindor_001> btao
+[16:35:32] [Server thread/INFO]: <gryffindor_001> konsi light
+[16:35:51] [Server thread/INFO]: <gryffindor_001> konsi light bhai
+[16:36:33] [Server thread/INFO]: <gryffindor_001> bta to do
+[16:36:35] [Server thread/INFO]: <gryffindor_001> kya kr rhe
+[16:37:21] [Server thread/INFO]: <gryffindor_001> nhi
+[16:37:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[16:37:50] [Server thread/INFO]: <gryffindor_001> are btao toh kya chupaya
+[16:38:24] [Server thread/INFO]: <gryffindor_001> are btao toh kya chupaya
+[16:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[16:39:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3676ms or 73 ticks behind
+[16:39:30] [Server thread/INFO]: <insayn> sex
+[16:39:30] [Server thread/INFO]: <pigmeister> sex
+[16:39:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[16:40:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[16:40:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16:41:16] [Server thread/INFO]: <_cirius> what is this fuckin voice
+[16:43:44] [Server thread/INFO]: insayn has made the advancement [The Parrots and the Bats]
+[16:44:03] [Server thread/INFO]: pigmeister lost connection: Disconnected
+[16:44:03] [Server thread/INFO]: pigmeister left the game
+[16:44:06] [Server thread/INFO]: pigmeister[/0:0:0:0:0:0:0:1:56859] logged in with entity id 16853 at (-1675.4504758854955, 63.0, -238.49755977338674)
+[16:44:06] [Server thread/INFO]: pigmeister joined the game
+[16:47:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[16:48:02] [Server thread/INFO]: <gryffindor_001> cheating ni thi mtlb spectate kia tha or tp jasa hoga mtlb wo
+[16:48:19] [Server thread/INFO]: <gryffindor_001> mtlb jgh yaad thi bs cood yad nhi the
+[16:48:26] [Server thread/INFO]: <gryffindor_001> mtlb abi abhi saman mila or
+[16:48:32] [Server thread/INFO]: <gryffindor_001> ghum gya bhi
+[16:48:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[16:48:35] [Server thread/INFO]: <gryffindor_001> sword or
+[16:48:39] [Server thread/INFO]: <gryffindor_001> axe
+[16:48:56] [Server thread/INFO]: <gryffindor_001> nhi toh kya chahte ho
+[16:49:03] [Server thread/INFO]: <gryffindor_001> fek dun
+[16:49:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[16:49:18] [Server thread/INFO]: <gryffindor_001> thik h
+[16:50:16] [Server thread/INFO]: <gryffindor_001> mtlb aao stream pr
+[16:50:29] [Server thread/INFO]: <gryffindor_001> nhi nhi aao
+[16:50:31] [Server thread/INFO]: <gryffindor_001> ab
+[16:50:38] [Server thread/INFO]: <gryffindor_001> ab
+[16:50:50] [Server thread/INFO]: <gryffindor_001> nhi fir bad m bologe
+[16:51:00] [Server thread/INFO]: <gryffindor_001> ye dekh lo
+[16:52:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=208, y=5, z=300} fx{x=208, y=3, z=299}
+[16:53:34] [Server thread/INFO]: _cirius lost connection: Timed out
+[16:53:34] [Server thread/INFO]: _cirius left the game
+[16:53:50] [Server thread/INFO]: _cirius[/0:0:0:0:0:0:0:1:57411] logged in with entity id 23359 at (-1230.5613132584454, 63.0, 1204.8303366910563)
+[16:53:50] [Server thread/INFO]: _cirius joined the game
+[16:54:06] [Server thread/INFO]: _cirius lost connection: Timed out
+[16:54:06] [Server thread/INFO]: _cirius left the game
+[16:54:38] [Server thread/WARN]: gryffindor_001 moved too quickly! 4.595548597332424,2.487568448702663,-8.642867517356791
+[16:54:42] [Server thread/WARN]: gryffindor_001 was kicked for floating too long!
+[16:54:42] [Server thread/INFO]: gryffindor_001 lost connection: Flying is not enabled on this server
+[16:54:42] [Server thread/INFO]: gryffindor_001 left the game
+[16:54:49] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:57449] logged in with entity id 23920 at (211.06530053335305, 9.687771657470849, 93.24357904373922)
+[16:54:49] [Server thread/INFO]: gryffindor_001 joined the game
+[16:55:19] [Server thread/INFO]: gryffindor_001 lost connection: Timed out
+[16:55:19] [Server thread/INFO]: gryffindor_001 left the game
+[16:55:23] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:57482] logged in with entity id 24132 at (211.43422676426394, 6.0, 76.62122848750116)
+[16:55:23] [Server thread/INFO]: gryffindor_001 joined the game
+[16:56:04] [Server thread/INFO]: _cirius[/0:0:0:0:0:0:0:1:57531] logged in with entity id 24358 at (-1230.5613132584454, 63.0, 1204.8303366910563)
+[16:56:04] [Server thread/INFO]: _cirius joined the game
+[16:58:17] [Server thread/WARN]: pigmeister moved too quickly! 2196.4993178670325,39.58000001311302,257.9939636745802
+[16:58:18] [Server thread/WARN]: Entity aah['pigmeister'/16853, l='ServerLevel[litcraft]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[16:58:18] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:58:18] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[16:59:54] [Server thread/INFO]: <gryffindor_001> are laag ho rha tha
+[17:00:03] [Server thread/INFO]: <gryffindor_001> ender pearl s
+[17:00:07] [Server thread/INFO]: <gryffindor_001> toh collection hta dia
+[17:00:13] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=175, y=18, z=176} fx{x=173, y=17, z=176}
+[17:00:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=172, y=18, z=176} fx{x=170, y=17, z=176}
+[17:03:32] [Server thread/INFO]: gryffindor_001 tried to swim in lava
+[17:03:44] [Server thread/INFO]: <_cirius> aaaaah
+[17:03:51] [Server thread/INFO]: <gryffindor_001> tp kr lun
+[17:03:56] [Server thread/INFO]: <gryffindor_001> coods yaad h
+[17:04:07] [Server thread/INFO]: <gryffindor_001> netherite mil jaega
+[17:04:29] [Server thread/INFO]: <gryffindor_001> are ender chest nhi thi
+[17:04:44] [Server thread/INFO]: <gryffindor_001> ye bol rha na ki nhi phni
+[17:04:46] [Server thread/INFO]: <gryffindor_001> mtlb thi nhi
+[17:05:31] [Server thread/INFO]: [gryffindor_001: Set own game mode to Spectator Mode]
+[17:05:36] [Server thread/INFO]: [gryffindor_001: Teleported gryffindor_001 to -99.5, 49.809486741892094, -19.5]
+[17:05:40] [Server thread/INFO]: <gryffindor_001> tp kr rha na bhai
+[17:05:48] [Server thread/INFO]: <gryffindor_001> are lava lake h upr
+[17:05:58] [Server thread/INFO]: [gryffindor_001: Set own game mode to Creative Mode]
+[17:06:03] [Server thread/INFO]: <gryffindor_001> waps aa rha
+[17:06:08] [Server thread/INFO]: [gryffindor_001: Set own game mode to Spectator Mode]
+[17:06:21] [Server thread/INFO]: [gryffindor_001: Set own game mode to Survival Mode]
+[17:06:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[17:08:27] [Server thread/INFO]: <gryffindor_001> -200 -30 pr h na tumhara pig
+[17:08:29] [Server thread/INFO]: <gryffindor_001> portal
+[17:09:05] [Server thread/WARN]: Fetching packet for removed entity bcs['Air'/36425, l='ServerLevel[litcraft]', x=-1237.70, y=12.65, z=1350.55]
+[17:09:16] [Server thread/INFO]: <gryffindor_001> soul soil k upr stick uske upr coal
+[17:09:25] [Server thread/INFO]: <gryffindor_001> han
+[17:10:38] [Server thread/INFO]: <gryffindor_001> bad m bahr niklunga
+[17:10:39] [Server thread/INFO]: <gryffindor_001> kya
+[17:10:55] [Server thread/INFO]: <gryffindor_001> ruko btata hun
+[17:11:37] [Server thread/INFO]: <gryffindor_001> -776 725
+[17:11:41] [Server thread/INFO]: <gryffindor_001> nether fortress
+[17:11:43] [Server thread/INFO]: <gryffindor_001> yha pr
+[17:12:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1602, y=70, z=155} fx{x=-127, y=42, z=132}
+[17:12:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1602, y=70, z=155} fx{x=-127, y=42, z=132}
+[17:12:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1602, y=70, z=155} fx{x=-127, y=42, z=132}
+[17:12:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1602, y=70, z=155} fx{x=-127, y=42, z=132}
+[17:12:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1602, y=70, z=155} fx{x=-127, y=42, z=132}
+[17:13:08] [Server thread/INFO]: <gryffindor_001> bhai bcha lo koi
+[17:14:46] [Server thread/INFO]: <gryffindor_001> han
+[17:18:10] [Server thread/INFO]: <gryffindor_001> ender chest h kisipe
+[17:18:22] [Server thread/INFO]: <gryffindor_001> dedo
+[17:18:41] [Server thread/INFO]: <gryffindor_001> ender chest
+[17:19:27] [Server thread/WARN]: gryffindor_001 moved too quickly! -7.203237203004164,-15.735656319694229,-0.8887700070798701
+[17:19:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[17:20:27] [Server thread/INFO]: <gryffindor_001> are kya hi bnate bnate toh mra tha
+[17:20:38] [Server thread/INFO]: <gryffindor_001> sponge lene aaya tha tumse
+[17:20:44] [Server thread/INFO]: <gryffindor_001> tbhi toh mra tha
+[17:21:46] [Server thread/INFO]: <gryffindor_001> tum dal do mdad
+[17:22:00] [Server thread/INFO]: <gryffindor_001> thik
+[17:23:08] [Server thread/INFO]: <gryffindor_001> are pant thi
+[17:23:11] [Server thread/INFO]: <gryffindor_001> ghum gyi
+[17:23:20] [Server thread/INFO]: <gryffindor_001> diamond ki thi
+[17:23:49] [Server thread/INFO]: <gryffindor_001> tumhara kha gya
+[17:23:57] [Server thread/INFO]: <gryffindor_001> kho gya
+[17:23:58] [Server thread/INFO]: <gryffindor_001> aree
+[17:25:37] [Server thread/INFO]: <gryffindor_001> han
+[17:26:04] [Server thread/INFO]: <gryffindor_001> are nhi
+[17:26:15] [Server thread/INFO]: <gryffindor_001> hwa m fek dia tha
+[17:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:26:41] [Server thread/INFO]: <gryffindor_001> bhai nhi shi nhi lg rha
+[17:26:44] [Server thread/INFO]: <gryffindor_001> spam sa lg rha
+[17:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[17:27:17] [Server thread/INFO]: <gryffindor_001> item frame h?
+[17:27:33] [Server thread/INFO]: [gryffindor_001: Executed 3 commands from function 'armor_statues:help/get_book']
+[17:27:38] [Server thread/INFO]: <gryffindor_001> dena zra ek
+[17:27:45] [Server thread/INFO]: <gryffindor_001> ek bna do
+[17:28:12] [Server thread/INFO]: <gryffindor_001> are leather or stickw
+[17:28:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[17:28:26] [Server thread/INFO]: <gryffindor_001> beech m leather
+[17:28:30] [Server thread/INFO]: <gryffindor_001> baki jgh stick
+[17:29:21] [Server thread/INFO]: [gryffindor_001: Triggered [if_invisible] (set value to 2)]
+[17:29:32] [Server thread/INFO]: [gryffindor_001: Triggered [if_invisible] (set value to 1)]
+[17:29:42] [Server thread/INFO]: <gryffindor_001> HAN
+[17:29:50] [Server thread/INFO]: <gryffindor_001> armor stand wala
+[17:30:01] [Server thread/INFO]: [gryffindor_001: Triggered [if_invisible] (set value to 1)]
+[17:30:15] [Server thread/INFO]: [gryffindor_001: Triggered [if_invisible] (set value to 1)]
+[17:30:46] [Server thread/INFO]: <gryffindor_001> are time lgega
+[17:30:56] [Server thread/INFO]: <gryffindor_001> armor stand or heads chye hote h uske lie
+[17:30:59] [Server thread/INFO]: <gryffindor_001> kl
+[17:31:04] [Server thread/INFO]: <gryffindor_001> kl
+[17:31:15] [Server thread/INFO]: <gryffindor_001> ye rhi
+[17:31:20] [Server thread/INFO]: <gryffindor_001> insayn
+[17:31:22] [Server thread/INFO]: <gryffindor_001> ye rhi
+[17:32:05] [Server thread/INFO]: <gryffindor_001> are ruko ek cheez bta rha
+[17:33:08] [Server thread/INFO]: [gryffindor_001: Triggered [if_invisible] (set value to 1)]
+[17:33:18] [Server thread/INFO]: <gryffindor_001> nhiii
+[17:33:20] [Server thread/INFO]: <gryffindor_001> ye nhi ho rha
+[17:33:26] [Server thread/INFO]: <gryffindor_001> nhi ho rha
+[17:33:36] [Server thread/INFO]: <gryffindor_001> wo mtlb sse l=ltka hua dikhta h
+[17:34:06] [Server thread/INFO]: <gryffindor_001> are tripwire mm lga hua dikhta h
+[17:34:10] [Server thread/INFO]: <gryffindor_001> seekh k aaunga
+[17:34:19] [Server thread/INFO]: <gryffindor_001> abe teri h
+[17:34:52] [Server thread/INFO]: <gryffindor_001> mere
+[17:36:15] [Server thread/INFO]: <gryffindor_001> light lvl 7 hi h
+[17:36:20] [Server thread/INFO]: <gryffindor_001> isse upr hona chahiye
+[17:36:39] [Server thread/INFO]: <gryffindor_001> are mix sa krdo
+[17:36:50] [Server thread/INFO]: <gryffindor_001> yha pr yellow lgaoo4
+[17:37:09] [Server thread/INFO]: <gryffindor_001> are lgao
+[17:37:18] [Server thread/INFO]: <_cirius> ye dispenser kaise kaam krta haio
+[17:37:20] [Server thread/INFO]: <gryffindor_001> ab shi h
+[17:37:49] [Server thread/INFO]: <pigmeister> item fekta hai dispenser jo uske andar hai
+[17:37:53] [Server thread/INFO]: <pigmeister> input milne par
+[17:38:34] [Server thread/INFO]: <gryffindor_001> lga dia ek diamond
+[17:40:09] [Server thread/INFO]: <gryffindor_001> anvil kha h tumhara
+[17:41:14] [Server thread/INFO]: <gryffindor_001> are xp h kisi p
+[17:41:15] [Server thread/INFO]: pigmeister lost connection: Timed out
+[17:41:15] [Server thread/INFO]: pigmeister left the game
+[17:41:43] [Server thread/INFO]: <gryffindor_001> are pura stack bna rkha
+[17:42:03] [Server thread/INFO]: <gryffindor_001> grindstone
+[17:42:38] [Server thread/INFO]: _cirius lost connection: Disconnected
+[17:42:38] [Server thread/INFO]: _cirius left the game
+[17:42:40] [Server thread/INFO]: <gryffindor_001> stone slab or plank
+[17:42:43] [Server thread/INFO]: <gryffindor_001> or stick
+[17:43:02] [Server thread/INFO]: _cirius[/0:0:0:0:0:0:0:1:59475] logged in with entity id 48578 at (-1260.259309055877, 79.0, 979.861527941777)
+[17:43:02] [Server thread/INFO]: _cirius joined the game
+[17:43:14] [Server thread/INFO]: <gryffindor_001> de di
+[17:43:17] [Server thread/INFO]: pigmeister[/0:0:0:0:0:0:0:1:59485] logged in with entity id 49128 at (-1612.95726345294, 66.5, 117.3700316056246)
+[17:43:17] [Server thread/INFO]: pigmeister joined the game
+[17:43:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[17:44:18] [Server thread/INFO]: <gryffindor_001> are ruko upgrade sa kr deta
+[17:44:38] [Server thread/WARN]: _cirius moved too quickly! -1.978428762746944,1.1767592750642422,-9.774990355163482
+[17:44:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
+[17:45:31] [Server thread/INFO]: <gryffindor_001> grindstone
+[17:45:35] [Server thread/INFO]: <gryffindor_001> han
+[17:45:45] [Server thread/INFO]: <gryffindor_001> grindstone
+[17:46:34] [Server thread/INFO]: <gryffindor_001> smithing table nhi h tumpe
+[17:48:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[17:48:55] [Server thread/INFO]: <gryffindor_001> 4 plank k upr 2 iron ingot
+[17:50:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[17:51:20] [Server thread/INFO]: <gryffindor_001> kuch nhi
+[17:51:22] [Server thread/INFO]: <_cirius> bye
+[17:51:30] [Server thread/INFO]: <pigmeister> bi
+[17:51:34] [Server thread/INFO]: <gryffindor_001> bye
+[17:51:37] [Server thread/INFO]: _cirius lost connection: Disconnected
+[17:51:37] [Server thread/INFO]: _cirius left the game
+[17:52:44] [Server thread/INFO]: <gryffindor_001> are shi
+[17:53:45] [Server thread/INFO]: <gryffindor_001> ye lo lga dia
+[17:54:58] [Server thread/INFO]: <gryffindor_001> are lkdi h tumpe
+[17:55:04] [Server thread/INFO]: <gryffindor_001> andr chest m
+[17:55:06] [Server thread/INFO]: <gryffindor_001> dekh
+[17:55:09] [Server thread/INFO]: <gryffindor_001> are nhi
+[17:55:13] [Server thread/INFO]: <gryffindor_001> andar
+[17:55:15] [Server thread/INFO]: <gryffindor_001> dekho
+[17:55:18] [Server thread/INFO]: <gryffindor_001> chest m
+[17:55:31] [Server thread/INFO]: <gryffindor_001> plank h
+[17:56:03] [Server thread/INFO]: <gryffindor_001> kya hi
+[17:57:32] [Server thread/INFO]: <gryffindor_001> ek or lga dete h
+[17:57:50] [Server thread/INFO]: <gryffindor_001> 2 plank
+[17:57:59] [Server thread/INFO]: <gryffindor_001> tumbna lo
+[17:58:12] [Server thread/INFO]: <gryffindor_001> slab dia maine tumhe
+[17:58:23] [Server thread/INFO]: <gryffindor_001> grindstone likha na
+[17:58:39] [Server thread/INFO]: <gryffindor_001> are mujhe do
+[17:58:47] [Server thread/INFO]: <gryffindor_001> isliye nhi aa rha
+[17:58:50] [Server thread/INFO]: <gryffindor_001> showing all kro
+[17:59:03] [Server thread/INFO]: <gryffindor_001> are beech m slab
+[17:59:21] [Server thread/INFO]: <gryffindor_001> uske as pas stick
+[17:59:29] [Server thread/INFO]: <gryffindor_001> or dono stick k neeche
+[17:59:31] [Server thread/INFO]: <gryffindor_001> ek ek plank
+[17:59:57] [Server thread/INFO]: <gryffindor_001> do
+[18:00:04] [Server thread/INFO]: <gryffindor_001> slab k righ or left
+[18:00:08] [Server thread/INFO]: <gryffindor_001> right
+[18:00:19] [Server thread/INFO]: <gryffindor_001> nhi k hi sab
+[18:00:21] [Server thread/INFO]: <gryffindor_001> slab
+[18:00:26] [Server thread/INFO]: <gryffindor_001> nhi ek hi slab
+[18:00:41] [Server thread/INFO]: <gryffindor_001> uske neeche plank stick k neeche
+[18:00:51] [Server thread/INFO]: <gryffindor_001> stick k neeche plank
+[18:00:54] [Server thread/INFO]: <gryffindor_001> han
+[18:01:42] [Server thread/INFO]: <gryffindor_001> lapis bhro
+[18:02:04] [Server thread/INFO]: <gryffindor_001> ye bdl kr dirt kr do
+[18:02:07] [Server thread/INFO]: <gryffindor_001> stone k
+[18:02:12] [Server thread/INFO]: <gryffindor_001> han
+[18:02:16] [Server thread/INFO]: <gryffindor_001> han
+[18:02:18] [Server thread/INFO]: <gryffindor_001> han
+[18:02:24] [Server thread/INFO]: <gryffindor_001> mere pe h
+[18:03:07] [Server thread/INFO]: <gryffindor_001> are shovel kaise khridoge
+[18:03:37] [Server thread/INFO]: <gryffindor_001> silk touvh ka hi rkhta hun m toh
+[18:03:43] [Server thread/INFO]: <gryffindor_001> aree
+[18:03:48] [Server thread/INFO]: <gryffindor_001> 5 kro
+[18:04:44] [Server thread/INFO]: <gryffindor_001> pura kato bhai
+[18:04:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1600, y=61, z=52} fx{x=-1603, y=60, z=53}
+[18:04:52] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1602, y=59, z=53} fx{x=-1603, y=59, z=53}
+[18:05:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1603, y=61, z=50} fx{x=-1602, y=61, z=51}
+[18:05:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1601, y=59, z=49} fx{x=-1600, y=58, z=51}
+[18:05:17] [Server thread/INFO]: <gryffindor_001> chlo ab kl subh kaun start krega?
+[18:05:32] [Server thread/INFO]: <gryffindor_001> hmm shi h
+[18:05:36] [Server thread/INFO]: <gryffindor_001> mere kr dena
+[18:06:10] [Server thread/INFO]: <gryffindor_001> kya hi
+[18:06:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1656, y=61, z=129} fx{x=-1656, y=62, z=129}
+[18:06:31] [Server thread/INFO]: <gryffindor_001> dolphin
+[18:07:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1667, y=60, z=115} fx{x=-1667, y=61, z=115}
+[18:07:15] [Server thread/INFO]: <gryffindor_001> sword udhar dedo kl k lie
+[18:07:28] [Server thread/INFO]: <gryffindor_001> nipun tum
+[18:07:35] [Server thread/INFO]: <gryffindor_001> are kl xp collect krunga
+[18:07:38] [Server thread/INFO]: <gryffindor_001> tum rhoge nhi
+[18:07:46] [Server thread/INFO]: <gryffindor_001> han kl bna dunga
+[18:07:50] [Server thread/INFO]: <gryffindor_001> tools bna kr
+[18:07:55] [Server thread/INFO]: <gryffindor_001> han bna dunga na
+[18:08:18] [Server thread/INFO]: gryffindor_001 lost connection: Disconnected
+[18:08:18] [Server thread/INFO]: gryffindor_001 left the game
+[18:11:38] [Server thread/INFO]: pigmeister lost connection: Disconnected
+[18:11:38] [Server thread/INFO]: pigmeister left the game
+[18:11:41] [Server thread/INFO]: insayn lost connection: Disconnected
+[18:11:41] [Server thread/INFO]: insayn left the game
+[18:11:49] [Server thread/INFO]: Stopping the server
+[18:11:49] [Server thread/INFO]: Stopping server
+[18:11:49] [Server thread/INFO]: Saving players
+[18:11:49] [Server thread/INFO]: Saving worlds
+[18:11:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:overworld
+[18:11:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:11:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:the_nether
+[18:11:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:11:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:the_end
+[18:11:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:11:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:11:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:11:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
