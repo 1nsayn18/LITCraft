@@ -1,247 +1,47 @@
-[14:33:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[14:33:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:33:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:33:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:33:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:33:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:33:09] [main/INFO]: Reloading ResourceManager: Default, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, durability ping v1.1.0.zip, more mob heads v2.3.0.zip, nether portal coords v1.0.0.zip, wandering trades v1.0.0.zip, armor statues v2.8.1.zip, multiplayer sleep v2.4.3.zip
-[14:33:11] [Worker-Main-10/INFO]: Loaded 7 recipes
-[14:33:11] [Worker-Main-10/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
-[14:33:12] [Worker-Main-10/ERROR]: Parsing error loading custom advancement main:main/namespace: Expected item to be an item, was unknown string 'minecraft:item'
-[14:33:12] [Worker-Main-10/INFO]: Loaded 974 advancements
-[14:33:14] [Server thread/INFO]: Starting minecraft server version 1.16.2
-[14:33:14] [Server thread/INFO]: Loading properties
-[14:33:14] [Server thread/INFO]: Default game type: SURVIVAL
-[14:33:14] [Server thread/INFO]: Generating keypair
-[14:33:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:33:14] [Server thread/INFO]: Using default channel type
-[14:33:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:33:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:33:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:33:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:33:15] [Server thread/INFO]: Preparing level "world"
-[14:33:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:33:17] [Server thread/INFO]: Preparing spawn area: 0%
-[14:33:17] [Server thread/INFO]: Preparing spawn area: 0%
-[14:33:17] [Server thread/INFO]: Preparing spawn area: 0%
-[14:33:17] [Server thread/INFO]: Preparing spawn area: 0%
-[14:33:18] [Server thread/INFO]: Preparing spawn area: 0%
-[14:33:18] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[14:33:19] [Server thread/INFO]: Time elapsed: 3405 ms
-[14:33:19] [Server thread/INFO]: Done (3.702s)! For help, type "help"
-[14:34:28] [Server thread/INFO]: gryffindor_001[/0:0:0:0:0:0:0:1:52039] logged in with entity id 16 at (-1635.5, 54.6875, -223.5)
-[14:34:28] [Server thread/INFO]: gryffindor_001 joined the game
-[14:48:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1289, y=67, z=980} fx{x=-1289, y=66, z=980}
-[14:57:26] [Server thread/WARN]: gryffindor_001 moved wrongly!
-[15:24:25] [Server thread/INFO]: insayn[/0:0:0:0:0:0:0:1:52252] logged in with entity id 10659 at (-1620.7220976438653, 72.0, 122.96482516924512)
-[15:24:25] [Server thread/INFO]: insayn joined the game
-[15:24:42] [Server thread/INFO]: <insayn> kya hi
-[15:24:44] [Server thread/INFO]: <insayn> halo
-[15:24:49] [Server thread/INFO]: <gryffindor_001> halo
-[15:24:59] [Server thread/INFO]: <insayn> ohhhhhhhhhhhhhhhh
-[15:25:01] [Server thread/INFO]: <gryffindor_001> temple m dekho
-[15:25:02] [Server thread/INFO]: <insayn> mandir mai
-[15:25:05] [Server thread/INFO]: <gryffindor_001> han
-[15:25:09] [Server thread/INFO]: <insayn> are usko
-[15:25:09] [Server thread/INFO]: <gryffindor_001> shi h na?
-[15:25:13] [Server thread/INFO]: <insayn> neeche krte
-[15:25:18] [Server thread/INFO]: <insayn> ek block neeche
-[15:25:27] [Server thread/INFO]: <gryffindor_001> ruko
-[15:26:43] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 155)]
-[15:26:59] [Server thread/WARN]: Trying to add entity with duplicated UUID 85e72bc9-da49-4450-b110-4a32e5dac539. Existing minecraft:armor_stand#11690, new: minecraft:armor_stand#11690
-[15:27:05] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 999)]
-[15:27:22] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 9)]
-[15:27:34] [Server thread/WARN]: Trying to add entity with duplicated UUID 491d28a8-29eb-4203-8b0f-1c0b15af827c. Existing minecraft:armor_stand#11741, new: minecraft:armor_stand#11741
-[15:27:36] [Server thread/INFO]: <insayn> ye waise zyada neeche sa ho jayega shyd
-[15:27:37] [Server thread/INFO]: <insayn> XD
-[15:27:47] [Server thread/INFO]: <insayn> lgake ke dekho
-[15:27:59] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 2)]
-[15:28:02] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 3)]
-[15:28:05] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 8)]
-[15:28:12] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 155)]
-[15:28:28] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 155)]
-[15:28:40] [Server thread/WARN]: Trying to add entity with duplicated UUID e206bfbe-86fb-43aa-83ff-8f87b27b79e3. Existing minecraft:armor_stand#11854, new: minecraft:armor_stand#11854
-[15:28:47] [Server thread/WARN]: Trying to add entity with duplicated UUID 39b9c906-4915-49db-bd44-21a928b766f2. Existing minecraft:armor_stand#11867, new: minecraft:armor_stand#11867
-[15:29:00] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 3)]
-[15:29:03] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 8)]
-[15:29:15] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 155)]
-[15:29:26] [Server thread/INFO]: <insayn> pehele se better hai
-[15:29:29] [Server thread/INFO]: <insayn> sahi hai
-[15:29:54] [Server thread/INFO]: <insayn> bhdiya
-[15:29:56] [Server thread/INFO]: <gryffindor_001> nice
-[15:30:30] [Server thread/INFO]: <gryffindor_001> koi mob head h
-[15:30:49] [Server thread/WARN]: Trying to add entity with duplicated UUID edcef3cc-7781-45e7-9fb9-507fdb4aaad6. Existing minecraft:armor_stand#12066, new: minecraft:armor_stand#12066
-[15:30:53] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 2)]
-[15:30:55] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 3)]
-[15:30:57] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 8)]
-[15:31:00] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 11)]
-[15:31:13] [Server thread/INFO]: <insayn> trader head hai
-[15:31:24] [Server thread/INFO]: <gryffindor_001> le aao
-[15:31:38] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 31)]
-[15:31:46] [Server thread/INFO]: <gryffindor_001> lol
-[15:31:54] [Server thread/INFO]: <insayn> are kaise banta hai ye
-[15:32:06] [Server thread/INFO]: <insayn> YT pe dekhta hu
-[15:32:10] [Server thread/INFO]: <insayn> 2 laga dunga bahar
-[15:32:29] [Server thread/INFO]: <insayn> are mai gold ka armor bana ke
-[15:32:32] [Server thread/INFO]: <insayn> laga dunga
-[15:32:38] [Server thread/INFO]: <insayn> zyada sexy lagega
-[15:32:42] [Server thread/INFO]: <gryffindor_001> are mst ek diamond
-[15:32:45] [Server thread/INFO]: <gryffindor_001> ek gol
-[15:32:48] [Server thread/INFO]: <gryffindor_001> gold
-[15:33:15] [Server thread/INFO]: <insayn> is block pe lagte hai
-[15:33:27] [Server thread/INFO]: <gryffindor_001> konsa
-[15:33:38] [Server thread/INFO]: <gryffindor_001> ruko aage kr deta hun
-[15:33:47] [Server thread/INFO]: <insayn> mai yt pe dekhta
-[15:33:50] [Server thread/INFO]: <insayn> tutorial
-[15:33:51] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 43)]
-[15:33:56] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 43)]
-[15:34:01] [Server thread/INFO]: <gryffindor_001> ho gya
-[15:34:06] [Server thread/INFO]: <gryffindor_001> suno
-[15:34:17] [Server thread/INFO]: <gryffindor_001> zombiecleo armor stand tutorial
-[15:34:20] [Server thread/INFO]: <gryffindor_001> ye dekho
-[15:34:25] [Server thread/INFO]: <insayn> easy hai
-[15:34:33] [Server thread/INFO]: <insayn> stick
-[15:34:36] [Server thread/INFO]: <insayn> or stone slab
-[15:35:20] [Server thread/INFO]: <insayn> aaa
-[15:35:22] [Server thread/INFO]: <insayn> nahi bana
-[15:35:24] [Server thread/INFO]: <insayn> kyu par
-[15:35:29] [Server thread/INFO]: <insayn> yt jaise hi banaya
-[15:35:32] [Server thread/INFO]: <gryffindor_001> are smooth stone slab
-[15:35:49] [Server thread/INFO]: <insayn> acha
-[15:35:54] [Server thread/INFO]: <insayn> wo kaise banegi
-[15:35:59] [Server thread/INFO]: <gryffindor_001> stone jla do
-[15:36:45] [Server thread/INFO]: <insayn> bc stone dikhta kaisa hai ?
-[15:37:01] [Server thread/INFO]: <gryffindor_001> esa
-[15:37:15] [Server thread/INFO]: <gryffindor_001> are stone jlao
-[15:37:15] [Server thread/INFO]: <insayn> are cobble stone ko jala ke
-[15:37:20] [Server thread/INFO]: <gryffindor_001> cobble ko kr stone bnta h
-[15:37:24] [Server thread/INFO]: <insayn> pehele stone to banane do
-[15:37:25] [Server thread/INFO]: <gryffindor_001> jla kr
-[15:37:27] [Server thread/INFO]: <gryffindor_001> han
-[15:37:52] [Server thread/INFO]: <gryffindor_001> 3 chahiye bs
-[15:38:24] [Server thread/WARN]: Trying to add entity with duplicated UUID fddee6fd-4286-4766-ac75-d0cf54d5f4da. Existing minecraft:armor_stand#12975, new: minecraft:armor_stand#12975
-[15:38:58] [Server thread/WARN]: Trying to add entity with duplicated UUID 15f71006-c1f1-4e0d-9c72-a197ebbcfe09. Existing minecraft:armor_stand#13060, new: minecraft:armor_stand#13060
-[15:39:06] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 2)]
-[15:39:09] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 7)]
-[15:39:11] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 8)]
-[15:39:12] [Server thread/INFO]: <insayn> abe tumne to ameer sa laga diya armor
-[15:39:18] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 3)]
-[15:39:33] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 31)]
-[15:39:40] [Server thread/INFO]: <gryffindor_001> nametag chahiye hoga
-[15:39:42] [Server thread/INFO]: <gryffindor_001> hello k lie
-[15:39:46] [Server thread/INFO]: <insayn> neh chodo
-[15:39:58] [Server thread/INFO]: <gryffindor_001> gold armor bnao
-[15:40:02] [Server thread/INFO]: <insayn> hana
-[15:40:50] [Server thread/INFO]: <insayn> jalana padega
-[15:40:53] [Server thread/INFO]: <insayn> hai nahi gold
-[15:40:58] [Server thread/INFO]: <insayn> ore jala raha hu
-[15:40:59] [Server thread/INFO]: <gryffindor_001> iss chest m
-[15:41:00] [Server thread/INFO]: <gryffindor_001> h
-[15:41:03] [Server thread/INFO]: <gryffindor_001> tumhari
-[15:41:25] [Server thread/INFO]: <gryffindor_001> use enchant kr dena sbse low wala
-[15:42:41] [Server thread/INFO]: <gryffindor_001> are koi sa bhi krdo
-[15:43:09] [Server thread/INFO]: <gryffindor_001> joote
-[15:43:09] [Server thread/INFO]: <insayn> boots
-[15:43:50] [Server thread/INFO]: <gryffindor_001> mast
-[15:43:55] [Server thread/INFO]: <insayn> sexy
-[15:44:06] [Server thread/INFO]: <gryffindor_001> or positions bhi h
-[15:44:13] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 38)]
-[15:44:15] [Server thread/INFO]: <insayn> kaise change hoti ai
-[15:44:21] [Server thread/INFO]: <gryffindor_001> lol
-[15:44:22] [Server thread/INFO]: <insayn> lol
-[15:44:32] [Server thread/INFO]: <gryffindor_001> function armor_statues:help/get_book
-[15:44:37] [Server thread/INFO]: <gryffindor_001> ye wala command likho
-[15:44:43] [Server thread/INFO]: <insayn> yahi pe ?
-[15:44:51] [Server thread/INFO]: <gryffindor_001> iske aage / ye lga dena
-[15:44:53] [Server thread/INFO]: <gryffindor_001> han yhi pr
-[15:45:01] [Server thread/INFO]: <gryffindor_001> ek book milegi
-[15:45:08] [Server thread/INFO]: <insayn> fnction ke pehele /
-[15:45:09] [Server thread/INFO]: <insayn> ?
-[15:45:12] [Server thread/INFO]: <gryffindor_001> han
-[15:45:35] [Server thread/INFO]: <insayn> na hua
-[15:45:41] [Server thread/INFO]: [gryffindor_001: Executed 3 commands from function 'armor_statues:help/get_book']
-[15:45:53] [Server thread/INFO]: <gryffindor_001> iss boo m presets m jao
-[15:46:07] [Server thread/INFO]: <insayn> wtf
-[15:46:23] [Server thread/INFO]: <gryffindor_001> statue k pas ja kr presets m jao
-[15:46:30] [Server thread/INFO]: <gryffindor_001> dekh lo jo action chahiye
-[15:46:41] [Server thread/INFO]: [insayn: Triggered [as_trigger] (set value to 1150)]
-[15:46:52] [Server thread/INFO]: [insayn: Triggered [as_trigger] (set value to 21)]
-[15:47:01] [Server thread/INFO]: [insayn: Triggered [as_trigger] (set value to 30)]
-[15:47:14] [Server thread/INFO]: [insayn: Triggered [as_trigger] (set value to 23)]
-[15:47:35] [Server thread/INFO]: <insayn> are ye temple gaurdians
-[15:47:41] [Server thread/INFO]: <insayn> inhe sword de dete hai
-[15:48:07] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 26)]
-[15:48:22] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 30)]
-[15:48:28] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 20)]
-[15:48:43] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 32)]
-[15:48:50] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 23)]
-[15:48:58] [Server thread/INFO]: <gryffindor_001> ruko ruko
-[15:49:02] [Server thread/INFO]: <insayn> idhar face na karra bosda
-[15:49:04] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 57)]
-[15:49:09] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 57)]
-[15:49:15] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 57)]
-[15:49:19] [Server thread/INFO]: <insayn> tgda
-[15:49:22] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 56)]
-[15:49:23] [Server thread/INFO]: <insayn> name tag hata do
-[15:49:30] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 12)]
-[15:49:32] [Server thread/INFO]: <insayn> mast
-[15:49:35] [Server thread/INFO]: [gryffindor_001: Triggered [as_trigger] (set value to 56)]
-[15:49:58] [Server thread/INFO]: <gryffindor_001> saaxx
-[15:50:31] [Server thread/INFO]: <insayn> osome
-[15:54:23] [Server thread/WARN]: Entity aah['insayn'/10659, l='ServerLevel[litcraft]', x=100.50, y=49.00, z=0.50] left loaded chunk area
-[15:54:24] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[15:54:24] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[15:59:29] [Server thread/INFO]: <insayn> abe mujhe lagra hai hopper lagane padenge
-[15:59:32] [Server thread/INFO]: <insayn> xp farm pe
-[15:59:40] [Server thread/INFO]: <gryffindor_001> kyun lag ho rha kya
-[15:59:41] [Server thread/INFO]: <insayn> spawn nahi hote wrna sahi se
-[15:59:49] [Server thread/INFO]: <gryffindor_001> hmmm
-[15:59:55] [Server thread/INFO]: <gryffindor_001> lga do
-[16:00:07] [Server thread/INFO]: <insayn> hai nahi banana padega
-[16:00:15] [Server thread/INFO]: <gryffindor_001> thik h
-[16:00:16] [Server thread/INFO]: <insayn> baad mai lage dunga
-[16:00:24] [Server thread/INFO]: <gryffindor_001> bad m lga dunga agr m gya toh
-[16:02:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1142, y=91, z=1006} fx{x=-1142, y=86, z=1006}
-[16:02:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-1142, y=91, z=1006} fx{x=-1142, y=86, z=1006}
-[16:05:33] [Server thread/INFO]: <insayn> kya sa karre
-[16:05:38] [Server thread/INFO]: <gryffindor_001> wood farm bna rha
-[16:05:45] [Server thread/INFO]: <insayn> acha
-[16:05:50] [Server thread/INFO]: <gryffindor_001> hmm
-[16:14:06] [Server thread/INFO]: <insayn> aaj ke liye chlta sa hu
-[16:14:08] [Server thread/INFO]: <insayn> bye bye
-[16:14:12] [Server thread/INFO]: <gryffindor_001> hmm bye
-[16:14:18] [Server thread/INFO]: <insayn> suno
-[16:14:21] [Server thread/INFO]: <insayn> ek cheez
-[16:14:22] [Server thread/INFO]: <gryffindor_001> han sunao
-[16:14:26] [Server thread/INFO]: <insayn> MID SEM
-[16:14:32] [Server thread/INFO]: <insayn> -_-
-[16:14:34] [Server thread/INFO]: <insayn> T-T
-[16:14:37] [Server thread/INFO]: <gryffindor_001> are dekh lenge
-[16:14:39] [Server thread/INFO]: <insayn> XD
-[16:14:45] [Server thread/INFO]: <gryffindor_001> lol
-[16:14:47] [Server thread/INFO]: <insayn> minecraft khelenge ek raat pehele
-[16:14:55] [Server thread/INFO]: <gryffindor_001> han wo toh khelna hi h
-[16:15:04] [Server thread/INFO]: <insayn> chalo bye
-[16:15:05] [Server thread/INFO]: insayn lost connection: Disconnected
-[16:15:05] [Server thread/INFO]: insayn left the game
-[17:04:42] [Server thread/INFO]: [gryffindor_001: Set own game mode to Creative Mode]
-[17:05:11] [Server thread/INFO]: [gryffindor_001: Set own game mode to Survival Mode]
-[17:09:19] [Server thread/INFO]: [gryffindor_001: Set own game mode to Creative Mode]
-[17:09:53] [Server thread/INFO]: [gryffindor_001: Set own game mode to Survival Mode]
-[17:14:35] [Server thread/INFO]: [gryffindor_001: Set own game mode to Creative Mode]
-[17:16:14] [Server thread/INFO]: [gryffindor_001: Set own game mode to Survival Mode]
-[17:16:26] [Server thread/INFO]: gryffindor_001 lost connection: Disconnected
-[17:16:26] [Server thread/INFO]: gryffindor_001 left the game
-[17:30:31] [Server thread/INFO]: Stopping the server
-[17:30:31] [Server thread/INFO]: Stopping server
-[17:30:31] [Server thread/INFO]: Saving players
-[17:30:31] [Server thread/INFO]: Saving worlds
-[17:30:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:overworld
-[17:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:30:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:the_nether
-[17:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:30:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:the_end
-[17:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:04:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[01:04:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:04:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:04:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:04:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:04:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:04:17] [main/INFO]: Reloading ResourceManager: Default, double shulker shells v1.2.0.zip, dragon drops v1.2.0.zip, durability ping v1.1.0.zip, more mob heads v2.3.0.zip, nether portal coords v1.0.0.zip, wandering trades v1.0.0.zip, armor statues v2.8.1.zip, multiplayer sleep v2.4.3.zip
+[01:04:18] [Worker-Main-10/INFO]: Loaded 7 recipes
+[01:04:18] [Worker-Main-10/WARN]: Datapack tried to redefine minecraft:empty loot table, ignoring
+[01:04:18] [Worker-Main-10/ERROR]: Parsing error loading custom advancement main:main/namespace: Expected item to be an item, was unknown string 'minecraft:item'
+[01:04:19] [Worker-Main-10/INFO]: Loaded 974 advancements
+[01:04:21] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[01:04:21] [Server thread/INFO]: Loading properties
+[01:04:21] [Server thread/INFO]: Default game type: SURVIVAL
+[01:04:21] [Server thread/INFO]: Generating keypair
+[01:04:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:04:21] [Server thread/INFO]: Using default channel type
+[01:04:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:04:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:04:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:04:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:04:22] [Server thread/INFO]: Preparing level "world"
+[01:04:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:04:24] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:24] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:24] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:24] [Server thread/INFO]: Preparing spawn area: 0%
+[01:04:24] [Server thread/INFO]: Preparing spawn area: 83%
+[01:04:25] [Server thread/INFO]: Time elapsed: 2429 ms
+[01:04:25] [Server thread/INFO]: Done (2.670s)! For help, type "help"
+[01:05:10] [Server thread/INFO]: insayn[/192.168.137.1:56557] logged in with entity id 16 at (-1622.0039931735143, 67.0, 125.84022428839113)
+[01:05:10] [Server thread/INFO]: insayn joined the game
+[02:21:53] [Server thread/INFO]: insayn lost connection: Disconnected
+[02:21:53] [Server thread/INFO]: insayn left the game
+[02:22:11] [Server thread/INFO]: Stopping the server
+[02:22:12] [Server thread/INFO]: Stopping server
+[02:22:12] [Server thread/INFO]: Saving players
+[02:22:12] [Server thread/INFO]: Saving worlds
+[02:22:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:overworld
+[02:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:22:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:the_nether
+[02:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:22:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[litcraft]'/minecraft:the_end
+[02:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:22:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
